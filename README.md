@@ -1,5 +1,4 @@
 # Github-Visualization
-***
 This visualization project is created based on python, flask, bootstrap. Design pattern is MVC, front-end visualization using D3.js, front-end ajax operation using the Fetch API
 
 
