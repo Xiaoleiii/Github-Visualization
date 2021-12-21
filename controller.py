@@ -3,7 +3,7 @@ from model import GithubUser, Repo
 import operator
 import collections
 
-TOKEN = "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"
+TOKEN = "xxxx"
 g = Github(TOKEN)
 
 
